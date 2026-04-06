@@ -19,3 +19,6 @@ Projeto simula uma recepção de hospital gerando senhas e chamando elas na orde
 
 ## Como executar
 Compile e execute o arquivo SenhasMain. 
+
+
+Ultimo Commit : "Inserindo Funções das Senhas"
